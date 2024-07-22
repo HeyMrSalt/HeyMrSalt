@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 3. 0810 【考試】 iPAS中級考試 證照考試
 4. 0823-0824 【參與】 HITCOM CMT 2024 擔任會眾
 5. 0829-0830 【擔任】 第三十四屆全國資安會議 CISE 2024 擔任工作人員
+
+  很高興認識你歡迎交流 😄
