@@ -25,5 +25,5 @@ I've been mapping out my cybersecurity journey. Check out my recent itinerary:
 - 0823-0824 【參與】 HITCOM CMT 2024 擔任會眾
 - 0829-0830 【擔任】 第三十四屆全國資安會議 CISE 2024 擔任工作人員
 
-Hey there! Great to meet U. Let's convo it up 😄
+Hey there! Great to meet U. Let's convo it up 😄\
 --- Edited by Salt in 20240723
