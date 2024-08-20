@@ -1,9 +1,22 @@
 ## Hello, I am Salt.🧂 Welcome to my GitHub page! 👋
 
+- 🎓 NTUT is1ab [My-Lab-Personal-Website](https://is1ab.com/#/Member/2023/Salt)
+- 💼 Working on ...
+- 🌱 Learning **Crypto**
+- 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
+
 <!--
 **HeyMrSalt/HeyMrSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 🎓 NTUT is1ab [My-Lab-Personal-Website](https://is1ab.com/#/Member/2023/Salt)
+- 💼 Working on ...
+- 🌱 Learning **Crypto**
+- ⛳ My CTF Challenges on : [/My-CTF-Challenges](https://) 
+- 🚩 Some CTF writeups on : [https://](https://)
+- 🔍 Research of paper : [/Paper reading](https://)
+- 📫 How to reach me : **@gmail.com**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -27,6 +40,6 @@ I've been mapping out my cybersecurity journey. Check out my recent itinerary:
 - 0829-0830 【擔任】 第三十四屆全國資安會議 CISE 2024 擔任工作人員
 
 Hey there! Great to meet U. Let's convo it up 😄\
---- Edited by Salt in 20240819          
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heymrsalt&color=green&style=flat" alt="heymrsalt" /> </p>
+--- Edited by Salt in 20240820          
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat" alt="HeyMrSalt" /> </p>
 
