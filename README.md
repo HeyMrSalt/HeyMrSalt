@@ -41,8 +41,10 @@ I've been mapping out my cybersecurity journey. Check out my recent itinerary:
 - 0914-0914 【競賽】 2024 神盾盃資安競賽-預賽 擔任參賽隊員
 - 0925-0925 【參與】 工研院後量子課程-中階導論 擔任會眾
 - 1012-1012 【競賽】 113年度 資安技能金盾獎競賽-初賽 擔任參賽隊員
+- 1030-1030 【參與】 後量子創新應用推廣說明會 擔任會眾
+- 1030-1030 【參與】 HITCON ENTERPTRISE 2024 擔任會眾
 
 Hey there! Great to meet U. Let's convo it up 😄\
---- Edited by Salt in 20240909         
+--- Edited by Salt in 20241013         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat" alt="HeyMrSalt" /> </p>
 
