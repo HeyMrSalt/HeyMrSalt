@@ -2,7 +2,7 @@
 
 - 🎓 NTUT is1ab [My-Lab-Personal-Website](https://is1ab.com/#/Member/2023/Salt)
 - 💼 Working on [Turing Space](https://turingcerts.com)
-- 🌱 Learning **Crypto**
+- 🌱 Learning **Crypto** , **OID4VC**
 - 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
 
 <!--
