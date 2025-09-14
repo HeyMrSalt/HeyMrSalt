@@ -1,6 +1,7 @@
 ## Hello, I am Salt.🧂 Welcome to my GitHub page! 👋
 
-- 🎓 NTUT is1ab [My-Lab-Personal-Website](https://is1ab.com/#/Member/2023/Salt)
+- 🎓 Graduated from the [National Taipei University of Technology](https://www.ntut.edu.tw/)
+- 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
 - 🌱 Learning **Crypto** , **OID4VC** , **Pentest**
 - 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
