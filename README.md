@@ -1,10 +1,11 @@
 ## Hello, I am Salt.🧂 Welcome to my GitHub page! 👋
 
-- 🎓 Graduated from the [National Taipei University of Technology](https://www.ntut.edu.tw/)
+- 🎓 Graduated with a Master's Degree in **CyberSecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
 - 🌱 Learning **Crypto** , **OID4VC** , **Pentest**
 - 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
+- 🌐 Welcome to visit My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
 <!--
 - 💼 Working on [Turing Space](https://turingcerts.com)
 -->
@@ -32,6 +33,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+### 📊 My GitHub Stats
+
 <!--
 ![snake gif](https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/github-contribution-grid-snake.svg)
 -->
@@ -51,35 +56,52 @@ Here are some ideas to get you started:
   />
 </picture>
 
-I've been mapping out my cybersecurity journey. Check out my recent itinerary:
+[![HeyMrSalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrSalt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyMrSalt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 0726-0726 【參與】 工研院後量子課程-初階導論 擔任會眾
-- 0728-0804 【錄取】 AIS3-2024-新型態暑期課程 擔任學員
-- 0810-0810 【考試】 iPAS-資安工程師-中級 證照考試
-- 0823-0824 【參與】 HITCON-CMT-2024 擔任會眾
-- 0826-0828 【參與】 NISRA Enlightened-2024 擔任學員
-- 0829-0830 【擔任】 第三十四屆-全國資安會議-CISE-2024 擔任工作人員
-- 0914-0914 【競賽】 2024-神盾盃資安競賽-預賽 擔任參賽隊員
-- 0925-0925 【參與】 工研院後量子課程-中階導論 擔任會眾
-- 1012-1012 【競賽】 113年度-資安技能金盾獎競賽-初賽 擔任參賽隊員
-- 1014-1014 【參與】 後量子密碼偵測與遷移工作坊 擔任會眾
-- 1021-1026 【競賽】 Hack-The-Boo-2024 擔任參賽隊員
-- 1030-1030 【參與】 後量子創新應用推廣說明會 擔任會眾
-- 1030-1030 【參與】 HITCON-ENTERPTRISE-2024 擔任會眾
-- 1102-1102 【競賽】 2024-CGGC-網路守護者挑戰賽 擔任參賽隊員
-- 1106-1106 【參與】 工研院後量子課程-高階導論 擔任會眾
-- 1123-1123 【參與】 CTF-種子培訓工作坊-台北 擔任會眾
-- 1213-1215 【競賽】 HTB-University-CTF-2024 擔任參賽隊員
-- 0207-0208 【競賽】 AIS3 EOF CTF 2025 Final 擔任參賽隊員
-- 0308-0318 【競賽】 picoCTF 2025 擔任參賽隊員
-- 0412-0414 【競賽】 DEFCON CTF Qual 2025 擔任參賽隊員
-- 0415-0415 【競賽】 臺灣資安大會 CyberRange 2025 初賽 參賽
-- 0415-0417 【參與】 臺灣資安大會 CyberSec 2025
-- 0524-0526 【競賽】 AIS3 Pre-exam 2025 擔任參賽隊員
-- 0701-0911 【參與】 114 年度教育體系資安攻防演練 - 攻擊手
-- 0815-0816 【參與】 HITCOM CMT 2025
+---
+
+### 📅 I've been mapping out my cybersecurity journey. Check out my recent itinerary :
+
+</br>
+
+| Date               | Type     | Event                                        | Role       |
+| ------------------ | -------- | -------------------------------------------- | ---------- |
+| 2024/07/26         | 參與     | 工研院後量子課程-初階導論                         | 會眾 |
+| 2024/07/28-08/04   | 錄取     | AIS3-2024-新型態暑期課程                        | 學員 |
+| 2024/08/10         | 考試     | iPAS-資安工程師-中級 證照考試                    | 考生 |
+| 2024/08/23-08/24   | 參與     | HITCON-CMT-2024                              | 會眾 |
+| 2024/08/26-08/28   | 參與     | NISRA Enlightened-2024                       | 學員 |
+| 2024/08/29-08/30   | 擔任     | 第三十四屆-全國資安會議-CISE-2024                | 工作人員 |
+| 2024/09/14         | 競賽     | 2024-神盾盃資安競賽-預賽                        | 參賽隊員 |
+| 2024/09/25         | 參與     | 工研院後量子課程-中階導論                        | 會眾 |
+| 2024/10/12         | 競賽     | 113年度-資安技能金盾獎競賽-初賽                  | 參賽隊員 |
+| 2024/10/14         | 參與     | 後量子密碼偵測與遷移工作坊                       | 會眾 |
+| 2024/10/21-10/26   | 競賽     | Hack-The-Boo-2024                            | 參賽隊員 |
+| 2024/10/30         | 參與     | 後量子創新應用推廣說明會                         | 會眾 |
+| 2024/10/30         | 參與     | HITCON-ENTERPTRISE-2024                      | 會眾 |
+| 2024/11/02         | 競賽     | 2024-CGGC-網路守護者挑戰賽                      | 參賽隊員 |
+| 2024/11/06         | 參與     | 工研院後量子課程-高階導論                        | 會眾 |
+| 2024/11/23         | 參與     | CTF-種子培訓工作坊-台北                         | 會眾 |
+| 2024/12/13-12/15   | 競賽     | HTB-University-CTF-2024                      | 參賽隊員 |
+| 2025/02/07-02/08   | 競賽     | AIS3 EOF CTF 2025 Final                      | 參賽隊員 |
+| 2025/03/08-03/18   | 競賽     | picoCTF 2025                                 | 參賽隊員 |
+| 2025/04/12-04/14   | 競賽     | DEFCON CTF Qual 2025                         | 參賽隊員 |
+| 2025/04/15         | 競賽     | 臺灣資安大會 CyberRange 2025 初賽               | 參賽 |
+| 2025/04/15-04/17   | 參與     | 臺灣資安大會 CyberSec 2025                     | 會眾 |
+| 2025/05/24-05/26   | 競賽     | AIS3 Pre-exam 2025                           | 參賽隊員 |
+| 2025/07/01-09/11   | 參與     | 114 年度教育體系資安攻防演練                     | 攻擊手 |
+| 2025/08/15-08/16   | 參與     | HITCON CMT 2025                              | 會眾 |
+
+---
+
+### 🎧 My Current Favorite Music
+
+<a href="https://youtu.be/Rs1lL7wc7KM">
+  <img src="https://img.youtube.com/vi/Rs1lL7wc7KM/maxresdefault.jpg" alt="My Favorite Music" width="600">
+</a>
 
 Hey there! Great to meet U. Let's convo it up 😄\
 --- Edited by Salt in 20250914         
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat" alt="HeyMrSalt" /> </p>
 
