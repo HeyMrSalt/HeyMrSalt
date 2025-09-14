@@ -100,8 +100,9 @@ Here are some ideas to get you started:
   <img src="https://img.youtube.com/vi/Rs1lL7wc7KM/maxresdefault.jpg" alt="My Favorite Music" width="600">
 </a>
 
+---
+
 Hey there! Great to meet U. Let's convo it up 😄\
 --- Edited by Salt in 20250914         
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat" alt="HeyMrSalt" /> </p>
-
+![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
