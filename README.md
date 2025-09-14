@@ -1,10 +1,12 @@
 ## Hello, I am Salt.🧂 Welcome to my GitHub page! 👋
 
 - 🎓 NTUT is1ab [My-Lab-Personal-Website](https://is1ab.com/#/Member/2023/Salt)
-- 💼 Working on [Turing Space](https://turingcerts.com)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
-- 🌱 Learning **Crypto** , **OID4VC**
+- 🌱 Learning **Crypto** , **OID4VC** , **Pentest**
 - 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
+<!--
+- 💼 Working on [Turing Space](https://turingcerts.com)
+-->
 
 <!--
 **HeyMrSalt/HeyMrSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +31,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 ![snake gif](https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/github-contribution-grid-snake.svg)
+-->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/breakout-light.svg"
+  />
+  <img
+    alt="GitHub Breakout"
+    src="https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/breakout-light.svg"
+  />
+</picture>
 
 I've been mapping out my cybersecurity journey. Check out my recent itinerary:
 
@@ -50,8 +69,16 @@ I've been mapping out my cybersecurity journey. Check out my recent itinerary:
 - 1106-1106 【參與】 工研院後量子課程-高階導論 擔任會眾
 - 1123-1123 【參與】 CTF-種子培訓工作坊-台北 擔任會眾
 - 1213-1215 【競賽】 HTB-University-CTF-2024 擔任參賽隊員
+- 0207-0208 【競賽】 AIS3 EOF CTF 2025 Final 擔任參賽隊員
+- 0308-0318 【競賽】 picoCTF 2025 擔任參賽隊員
+- 0412-0414 【競賽】 DEFCON CTF Qual 2025 擔任參賽隊員
+- 0415-0415 【競賽】 臺灣資安大會 CyberRange 2025 初賽 參賽
+- 0415-0417 【參與】 臺灣資安大會 CyberSec 2025
+- 0524-0526 【競賽】 AIS3 Pre-exam 2025 擔任參賽隊員
+- 0701-0911 【參與】 114 年度教育體系資安攻防演練 - 攻擊手
+- 0815-0816 【參與】 HITCOM CMT 2025
 
 Hey there! Great to meet U. Let's convo it up 😄\
---- Edited by Salt in 20241026         
+--- Edited by Salt in 20250914         
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat" alt="HeyMrSalt" /> </p>
 
