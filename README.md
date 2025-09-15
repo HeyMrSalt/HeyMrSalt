@@ -1,4 +1,12 @@
-## Hello, I am Salt.🧂 Welcome to my GitHub page! 👋
+<h1 align="center">Hello, I am Salt.🧂 Welcome to my GitHub page! 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f28500&center=true&vCenter=true&width=450&lines=From+NTUT+is1ab;CyberSecurity+Engineer;CTF+Player+|+Crypto+%26+PQC" alt="Typing SVG" />
+  </a>
+</p>
+
+### 🧂 About Me
 
 - 🎓 Graduated with a Master's Degree in **CyberSecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
@@ -35,7 +43,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 My GitHub Stats
+### 🐈‍⬛ My GitHub Stats
 
 <!--
 ![snake gif](https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/github-contribution-grid-snake.svg)
@@ -58,9 +66,15 @@ Here are some ideas to get you started:
 
 [![HeyMrSalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrSalt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyMrSalt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,linux,kali,docker,nodejs,git,vscode,bash,html,c,arduino,figma,notion,linkedin"/>
+  </a>
+</p>
+
 ---
 
-### 📅 I've been mapping out my cybersecurity journey. Check out my recent itinerary :
+### 📅 My Recent Itinerary
 
 </br>
 
@@ -94,6 +108,15 @@ Here are some ideas to get you started:
 
 ---
 
+### 🎯 Goals for 2026
+
+- 💼 Find a fulfilling job in the cybersecurity field
+- 🛠️ Create and contribute to useful open-source tools
+- 📝 Publish at least 10 articles on my blog with positive feedback
+- 💪 Maintain a consistent exercise routine
+
+---
+
 ### 🎧 My Current Favorite Music
 
 <a href="https://youtu.be/Rs1lL7wc7KM">
@@ -102,7 +125,7 @@ Here are some ideas to get you started:
 
 ---
 
-Hey there! Great to meet U. Let's convo it up 😄\
---- Edited by Salt in 20250914         
+Hey there! Great to meet U. I've been mapping out my cybersecurity journey. Let's convo it up 😄\
+--- Edited by Salt in 20250916         
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
