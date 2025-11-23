@@ -120,8 +120,16 @@ Here are some ideas to get you started:
 ### 🎧 My Current Favorite Music
 
 <a href="https://youtu.be/SBaKScCQ5rA">
-  <img src="https://img.youtube.com/vi/Rs1lL7wc7KM/maxresdefault.jpg" alt="My Favorite Music" width="600">
+  <img src="https://img.youtube.com/vi/SBaKScCQ5rA/hqdefault.jpg" alt="My Favorite Music" width="600">
 </a>
+
+<!--
+maxresdefault.jpg	1920x1080 (最高)	  僅在影片上傳者提供高於 1280x720 的自訂縮圖時才會存在。如果影片較舊或未提供高解析度縮圖，就會破圖。
+sddefault.jpg	    640x480 (標準)	高	標準解析度縮圖，大多數影片都有。
+hqdefault.jpg	    480x360 (高品質)	  高品質縮圖，幾乎所有影片都會生成，是很安全的選擇。
+mqdefault.jpg	    320x180 (中等)	    中等品質縮圖。
+default.jpg	      120x90 (最低)	    最低品質縮圖，保證 100% 存在，但畫質很差。
+-->
 
 ---
 
