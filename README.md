@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 ### 🎧 My Current Favorite Music
 
-<a href="https://youtu.be/Rs1lL7wc7KM">
+<a href="https://youtu.be/SBaKScCQ5rA">
   <img src="https://img.youtube.com/vi/Rs1lL7wc7KM/maxresdefault.jpg" alt="My Favorite Music" width="600">
 </a>
 
