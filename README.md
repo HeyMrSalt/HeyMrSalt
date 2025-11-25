@@ -8,12 +8,12 @@
 
 ### 🧂 About Me
 
+- 🌐 Welcome to visit My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
 - 🎓 Graduated with a Master's Degree in **CyberSecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
-- 🌱 Learning **Crypto** , **OID4VC** , **Pentest**
-- 🔍 Keywords of paper research **LEO satellite communication** , **Authentication** , **Key agreement** , **PQC**
-- 🌐 Welcome to visit My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
+- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**
+- 🔍 Keywords of paper research **LEO satellite communication**, **Authentication**, **Key agreement**, **PQC**
 <!--
 - 💼 Working on [Turing Space](https://turingcerts.com)
 -->
