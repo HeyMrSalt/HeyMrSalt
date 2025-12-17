@@ -2,18 +2,20 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f28500&center=true&vCenter=true&width=450&lines=From+NTUT+is1ab;CyberSecurity+Engineer;CTF+Player+|+Crypto/Web/Misc;Hack+4+Fun+not+4+Profit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f28500&center=true&vCenter=true&width=450&lines=From+NTUT+is1ab;Cybersecurity+Engineer;CTF+Player+|+Crypto/Web/Misc;Hack+4+Fun+not+4+Profit" alt="Typing SVG" />
   </a>
 </p>
 
 ### 🧂 About Me
 
 - 🌐 Welcome to visit My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
-- 🎓 Graduated with a Master's Degree in **CyberSecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
+- 🔼 Currently Providing **Cybersecurity** Services at [Delta Electronics](https://www.deltaww.com/zh-TW/index)
+- 🎓 Graduated with a Master's Degree in **Cybersecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
-- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**
-- 🔍 Keywords of paper research **LEO satellite communication**, **Authentication**, **Key agreement**, **PQC**
+- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**, **ISO-21434**, **Automotive**
+- 🔍 Keywords of Paper Research **LEO satellite communication**, **Authentication**, **Key agreement**, **PQC**
+- ♉ Know More about Me [Here](https://heymrsalt.github.io/about)
 <!--
 - 💼 Working on [Turing Space](https://turingcerts.com)
 -->
@@ -63,6 +65,10 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/breakout-light.svg"
   />
 </picture>
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heymrsalt&theme=github)
+-->
 
 [![HeyMrSalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrSalt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyMrSalt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
