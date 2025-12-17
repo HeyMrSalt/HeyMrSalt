@@ -134,6 +134,6 @@ default.jpg	      120x90 (最低)	    最低品質縮圖，保證 100% 存在，
 ---
 
 Hey there! Great to meet U. I've been mapping out my cybersecurity journey. Let's convo it up 😄\
---- Edited by Salt in 20250916         
+--- Edited by Salt in 20251218         
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
