@@ -8,14 +8,14 @@
 
 ### 🧂 About Me
 
-- 🌐 Welcome to visit My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
-- 🔼 Currently Providing **Cybersecurity** Services at [Delta Electronics](https://www.deltaww.com/zh-TW/index)
+- 🌐 My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
+- 🔼 Working on **Cybersecurity** at [Delta Electronics](https://www.deltaww.com/zh-TW/index)
 - 🎓 Graduated with a Master's Degree in **Cybersecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
-- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**, **ISO-21434**, **Automotive**
+- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**, **ISO-21434**, **Automotive Cybersecurity**, **TARA**
 - 🔍 Keywords of Paper Research **LEO satellite communication**, **Authentication**, **Key agreement**, **PQC**
-- ♉ Know More about Me [Here](https://heymrsalt.github.io/about)
+- ♉ TL;DR about Me [HERE](https://heymrsalt.github.io/about)
 <!--
 - 💼 Working on [Turing Space](https://turingcerts.com)
 -->
