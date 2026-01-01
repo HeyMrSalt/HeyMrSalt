@@ -9,7 +9,7 @@
 ### 🧂 About Me
 
 - 🌐 My Blog [HeyMrSalt.github.io](https://heymrsalt.github.io/)
-- 🔼 Working on **Cybersecurity** at [Delta Electronics](https://www.deltaww.com/zh-TW/index)
+- 🔼 Working on **Cybersecurity Engineer** at [Delta Electronics](https://www.deltaww.com/zh-TW/index)
 - 🎓 Graduated with a Master's Degree in **Cybersecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
