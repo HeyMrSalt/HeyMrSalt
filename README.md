@@ -66,11 +66,12 @@ Here are some ideas to get you started:
   />
 </picture>
 
-<!--
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heymrsalt&theme=github)
--->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heymrsalt&theme=github)
+
+<!--
 [![HeyMrSalt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyMrSalt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyMrSalt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -125,8 +126,8 @@ Here are some ideas to get you started:
 
 ### 🎧 My Current Favorite Music
 
-<a href="https://youtu.be/WLR5Rls8iWM">
-  <img src="https://img.youtube.com/vi/WLR5Rls8iWM/sddefault.jpg" alt="My Favorite Music" width="600">
+<a href="https://youtu.be/T_lC2O1oIew">
+  <img src="https://img.youtube.com/vi/T_lC2O1oIew/sddefault.jpg" alt="My Favorite Music" width="600">
 </a>
 
 <!--
