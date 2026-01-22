@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f28500&center=true&vCenter=true&width=450&lines=M.S.+at+NTUT+is1ab;Cybersecurity+Engineer;TARA+|+UDS+|+Fuzzing+Test;CTF+Player+|+Cryptography;Hack+4+Fun+not+4+Profit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f28500&center=true&vCenter=true&width=450&lines=M.S.+at+NTUT+is1ab;Cybersecurity+Engineer;TARA+|+UDS+|+Fuzz+Testing;CTF+Player+|+Cryptography;Hack+4+Fun+not+4+Profit" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,8 +13,8 @@
 - 🎓 Graduated with a Master's Degree in **Cybersecurity** from [National Taipei University of Technology](https://www.ntut.edu.tw/)
 - 🔬 My Lab on [NTUT is1ab](https://is1ab.com/) and [My Personal Website (Lab)](https://is1ab.com/#/Member/2023/Salt)
 - ⛳ My CTF Challenges on [My-CTF-Challenges](https://github.com/HeyMrSalt/My-CTF-Challenges)
-- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**, **TARA**, **UDS**, **CAN bus**, **Fuzzing Test**, **ISO-21434**
-- 🔍 Keywords of [Paper](https://hdl.handle.net/11296/apugcf) Research **LEO satellite communication**, **Authentication**, **Key agreement**, **PQC**
+- 🌱 Learning **Crypto**, **OID4VC**, **Pentest**, **TARA**, **UDS**, **CAN bus**, **Fuzz Testing** and **ISO-21434**
+- 🔍 [Keywords for Paper](https://hdl.handle.net/11296/apugcf) Research on **LEO satellite communication**, **Authentication**, **Key agreement** and **PQC**
 - ♉ TL;DR about Me [HERE](https://heymrsalt.github.io/about)
 <!--
 - 💼 Working on [Turing Space](https://turingcerts.com)
@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 
 | Date               | Type     | Event                                        | Role       |
 | ------------------ | -------- | -------------------------------------------- | ---------- |
+| 2026.08.21-08.22   | 參與     | HITCON 2026                                   | 會眾 |
 | 2026.05.05-05.07   | 參與     | 臺灣資安大會 CyberSec 2026                      | 會眾 |
 | 2025.09.15-09.21   | 競賽     | is1abCTF 2025                                 | 出題 |
 | 2025.08.15-08.16   | 參與     | HITCON CMT 2025                               | 會眾 |
