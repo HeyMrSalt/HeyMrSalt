@@ -1,0 +1,30 @@
+name: Generate Space Shooter Game
+
+on:
+  # 每天自動更新（UTC 時間 00:00，約台灣時間早上 8 點）
+  schedule:
+    - cron: "0 0 * * *"
+  # 也可以手動觸發測試
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Game GIF
+        uses: czl9707/gh-space-shooter@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: HeyMrSalt # 你的 GitHub 帳號
+          output-path: gh-space-shooter.gif # 輸出的檔案名稱
+          strategy: random # 攻擊模式：column, row, 或 random
+
+      - name: Push to local
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update Space Shooter Animation" || echo "No changes to commit"
+          git push
