@@ -48,11 +48,19 @@ Here are some ideas to get you started:
 ### 🐈‍⬛ My GitHub Stats
 
 <!--
+小蜜蜂
+-->
+![My GitHub Game](game.gif)
+<!--
+貪吃蛇
+-->
+<!--
 ![snake gif](https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/github-contribution-grid-snake.svg)
 -->
-
-![My GitHub Game](gh-space-shooter.gif)
-
+<!--
+敲磚塊 breakout
+-->
+<!--
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -67,7 +75,7 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/breakout-light.svg"
   />
 </picture>
-
+-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heymrsalt&theme=github)
 
