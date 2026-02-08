@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 ![snake gif](https://raw.githubusercontent.com/HeyMrSalt/HeyMrSalt/output/github-contribution-grid-snake.svg)
 -->
 
+![My GitHub Game](gh-space-shooter.gif)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
