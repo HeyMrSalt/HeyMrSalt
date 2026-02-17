@@ -2,6 +2,7 @@ name: Generate Contribution Animations
 
 on:
   schedule:
+    # Automatically run every 24 hours
     - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
@@ -16,7 +17,22 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # --- 步驟 1：產生貪吃蛇 SVG ---
+      # 1. Checkout the repository (Necessary to write the heartbeat file)
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+
+      # 2. [Core Addition] Generate daily contribution (Update the green box grid)
+      - name: Daily Heartbeat (Green Box)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          echo "Last animation update: $(date)" > heartbeat.txt
+          git add heartbeat.txt
+          # [skip ci] prevents the Action from triggering itself in an infinite loop
+          git commit -m "chore: daily contribution heartbeat [skip ci]" || echo "No changes to commit"
+          git push origin main
+
+      # 3. Generate Snake SVG
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -25,21 +41,21 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # --- 步驟 2：產生 Breakout SVG (使用最新版本並關閉幽靈磚塊) ---
+      # 4. Generate Breakout SVG
       - name: Generate github-breakout.svg
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          enable_ghost_bricks: false # <-- 新增這一行來關閉幽靈磚塊
-
-      # --- 步驟 3：整理 Breakout 檔案到 dist 資料夾 ---
+          enable_ghost_bricks: false
+          
+      # 5. Organize Breakout files
       - name: Move breakout files to dist directory
         run: |
           mv output/light.svg dist/breakout-light.svg
           mv output/dark.svg dist/breakout-dark.svg
           
-      # --- 步驟 4：推送所有 SVG 到 output 分支 ---
-      - name: Push all generated SVGs to the output branch
+      # 6. Push animations to the output branch
+      - name: Push animations to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
