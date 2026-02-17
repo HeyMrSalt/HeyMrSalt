@@ -2,24 +2,26 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天台北時間早上 8 點更新
-  workflow_dispatch:      # 允許手動測試
+    # Runs at 00:00 UTC (8:00 AM Taipei Time) daily
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write         # 這行絕對不能少，否則 Action 沒權限把圖片存入你的倉庫
+  contents: write
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate Space Shooter
+      - name: Generate Space Shooter Game
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: HeyMrSalt
-          output-path: 'game.gif'  # 我們把檔名簡化成 game.gif
-          strategy: 'random'      # 隨機攻擊模式，更有看頭
-          fps: 40                  # 預設流暢度
+          output-path: 'game.gif'
+          strategy: 'random'
+          # Removed unsupported 'fps' parameter to fix error
           commit-message: "chore: update github activity space shooter game"
