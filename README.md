@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=800020&center=true&vCenter=true&width=480&lines=Happy+Lunar+New+Year!" alt="🧧 Happy Lunar New Year! 🧧" />
+  </a>
+</p>
+
+```text
+(\ _/)
+( •ㅅ•)    This is so Useful!
+/>  ＞🧧       I hope you get one too.
+```
 <h1 align="center">Hello, I am Salt.🧂 Welcome to my GitHub page! 👋</h1>
 
 <p align="center">
@@ -154,6 +165,6 @@ default.jpg	      120x90 (最低)	    最低品質縮圖，保證 100% 存在，
 ---
 
 Hey there! Great to meet U. I've been mapping out my cybersecurity journey. Let's convo it up 😄\
---- Edited by Salt in 20260117         
+--- Edited by Salt in 20260217         
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
