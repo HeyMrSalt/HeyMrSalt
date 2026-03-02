@@ -1,14 +1,3 @@
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=2000&color=800020&center=true&vCenter=true&width=480&lines=Happy+Lunar+New+Year!" alt="🧧 Happy Lunar New Year! 🧧" />
-  </a>
-</p>
-
-```text
-(\ _/)
-( •ㅅ•)    This is so Useful!
-/>  ＞🧧       I hope you get one too.
-```
 <h1 align="center">Hello, I am Salt.🧂 Welcome to my GitHub page! 👋</h1>
 
 <p align="center">
@@ -110,6 +99,7 @@ Here are some ideas to get you started:
 | ------------------ | -------- | -------------------------------------------- | ---------- |
 | 2026.08.21-08.22   | 參與     | HITCON 2026                                   | 會眾 |
 | 2026.05.05-05.07   | 參與     | 臺灣資安大會 CyberSec 2026                      | 會眾 |
+| 2026.04.25-04.27   | 參與     | 10th CSP 2026                                 | 會眾 | 
 | 2025.09.15-09.21   | 競賽     | is1abCTF 2025                                 | 出題 |
 | 2025.08.15-08.16   | 參與     | HITCON CMT 2025                               | 會眾 |
 | 2025.07.01-09.11   | 錄取     | 114 年度教育體系資安攻防演練                      | 攻擊手 |
@@ -150,8 +140,8 @@ Here are some ideas to get you started:
 
 ### 🎧 My Current Favorite Music
 
-<a href="https://youtu.be/T_lC2O1oIew">
-  <img src="https://img.youtube.com/vi/T_lC2O1oIew/sddefault.jpg" alt="My Favorite Music" width="600">
+<a href="https://youtu.be/GgDLuuiKVPs">
+  <img src="https://img.youtube.com/vi/GgDLuuiKVPs/sddefault.jpg" alt="My Favorite Music" width="600">
 </a>
 
 <!--
@@ -165,6 +155,6 @@ default.jpg	      120x90 (最低)	    最低品質縮圖，保證 100% 存在，
 ---
 
 Hey there! Great to meet U. I've been mapping out my cybersecurity journey. Let's convo it up 😄\
---- Edited by Salt in 20260217         
+--- Edited by Salt in 20260303         
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
