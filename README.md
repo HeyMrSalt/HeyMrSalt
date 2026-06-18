@@ -98,6 +98,7 @@ Here are some ideas to get you started:
 | Date               | Type     | Event                                        | Role       |
 | ------------------ | -------- | -------------------------------------------- | ---------- |
 | 2026.08.21-08.22   | 參與     | HITCON 2026                                   | 會眾 |
+| 2026.06.02-06.05   | 參與     | COMPUTEX 2026                                 | 會眾 |
 | 2026.05.05-05.07   | 參與     | 臺灣資安大會 CyberSec 2026                      | 會眾 |
 | 2026.04.25-04.27   | 參與     | 10th CSP 2026                                 | 會眾 | 
 | 2025.09.15-09.21   | 競賽     | is1abCTF 2025                                 | 出題 |
@@ -155,6 +156,6 @@ default.jpg	      120x90 (最低)	    最低品質縮圖，保證 100% 存在，
 ---
 
 Hey there! Great to meet U. I've been mapping out my cybersecurity journey. Let's convo it up 😄\
---- Edited by Salt in 20260610         
+--- Edited by Salt in 20260619         
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeyMrSalt&color=green&style=flat) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/HeyMrSalt/HeyMrSalt/blob/main/LICENSE)
